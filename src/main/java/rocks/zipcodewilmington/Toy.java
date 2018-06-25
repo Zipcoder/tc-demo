@@ -38,4 +38,8 @@ public class Toy {
     public Long getMyId() {
         return this.id;
     }
+
+    protected void thisMethodIsAnExampleForHowInheritanceWorks() {
+
+    }
 }

@@ -13,6 +13,6 @@ public class GrayToy extends Toy {
 
 
     public void someOtherMethodDownhere() {
-        thisMethodIsAnExampleForHowInheritanceWorks();
+        super.thisMethodIsAnExampleForHowInheritanceWorks();
     }
 }
