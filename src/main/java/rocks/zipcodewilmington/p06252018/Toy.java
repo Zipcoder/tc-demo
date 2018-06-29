@@ -1,4 +1,4 @@
-package rocks.zipcodewilmington;
+package rocks.zipcodewilmington.p06252018;
 
 import java.awt.Color;
 import java.util.Arrays;
@@ -11,12 +11,12 @@ import java.util.List;
 public class Toy {
     private static Long numberOfToysCreated = 0L;
 
-    private Long id;
+    private final Long id;
     private Color myColor;
     private Date myDate;
 
 
-    public Toy(Color providedColor, Date providedDate) {
+    public Toy(final Color providedColor, final Date providedDate) {
         this.myColor = providedColor;
         this.myDate = providedDate;
         this.id = ++numberOfToysCreated;

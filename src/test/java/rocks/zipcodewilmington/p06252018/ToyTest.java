@@ -1,6 +1,7 @@
-package rocks.zipcodewilmington;
+package rocks.zipcodewilmington.p06252018;
 
 import org.junit.Test;
+import rocks.zipcodewilmington.p06252018.Toy;
 
 import java.awt.*;
 import java.util.Date;
