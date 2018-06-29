@@ -71,7 +71,7 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="325">
               <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
             </state>
           </provider>
@@ -367,14 +367,14 @@
       <module name="tcusdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018.*" />
+          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018Friday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018.TestDog" />
+      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018Friday" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018Friday.TestDog" />
       <option name="METHOD_NAME" value="testInheritanceOfAnimal" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -390,14 +390,14 @@
       <module name="tcusdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018.*" />
+          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018Friday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018.TestPerson" />
+      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018Friday" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018Friday.TestPerson" />
       <option name="METHOD_NAME" value="testEquality" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -413,14 +413,14 @@
       <module name="tcusdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018.*" />
+          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018Friday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018.TestPerson" />
+      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018Friday" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018Friday.TestPerson" />
       <option name="METHOD_NAME" value="testPersonPrint" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -436,14 +436,14 @@
       <module name="tcusdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018.*" />
+          <option name="PATTERN" value="rocks.zipcodewilmington.p06292018Friday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018.TestString" />
+      <option name="PACKAGE_NAME" value="rocks.zipcodewilmington.p06292018Friday" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.p06292018Friday.TestString" />
       <option name="METHOD_NAME" value="testString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -524,7 +524,7 @@
       <workItem from="1530024936863" duration="9691000" />
       <workItem from="1530108226422" duration="91000" />
       <workItem from="1530145922670" duration="1142000" />
-      <workItem from="1530277143732" duration="7008000" />
+      <workItem from="1530277143732" duration="7083000" />
     </task>
     <servers />
   </component>
@@ -561,11 +561,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30811000" />
+    <option name="totallyTimeSpent" value="30886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -576,9 +575,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47434294" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47434294" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299285" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916147" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34305555" />
@@ -972,7 +971,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="325">
           <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
