@@ -4,25 +4,22 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author leon on 7/4/18.
  */
 public class CollectionTests {
     private String[] stringArray;
-    private List<String> stringList;
+    private List<String> stringImmutableList;
     private ArrayList<String> stringArrayList;
     private Collection<String> stringCollection;
 
     @Before
     public void setup() {
         this.stringArray= "The Quick Brown Fox".split(" ");
-        this.stringList = Arrays.asList(stringArray);
-        this.stringArrayList = new ArrayList<>(stringList);
+        this.stringImmutableList = Arrays.asList(stringArray);
+        this.stringArrayList = new ArrayList<>(stringImmutableList);
         this.stringCollection = stringArrayList;
     }
 
@@ -45,6 +42,25 @@ public class CollectionTests {
 
     @Test
     public void removeElementNotInCollection() {
-        Assert.assertTrue(stringCollection.remove("Quartz"));
+        Assert.assertFalse(stringCollection.remove("Quartz"));
+    }
+
+    @Test
+    public void getSize() {
+        // given
+        int expected = stringArray.length;
+
+        // when
+        int actual = stringCollection.size();
+
+        // then
+        Assert.assertEquals(expected,actual);
+    }
+
+    @Test
+    public void addNullToSet() {
+        Set<String> set = new HashSet<String>(stringArrayList);
+        System.out.println(set.add("The"));
+        Assert.assertFalse(set.add("The"));
     }
 }
