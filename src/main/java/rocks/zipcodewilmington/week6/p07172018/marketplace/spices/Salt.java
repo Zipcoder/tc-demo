@@ -1,4 +1,4 @@
-package rocks.zipcodewilmington.week6.p07172018;
+package rocks.zipcodewilmington.week6.p07172018.marketplace.spices;
 
 /**
  * @author leon on 7/17/18.

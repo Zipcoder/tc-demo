@@ -1,6 +1,7 @@
-package rocks.zipcodewilmington.week6.p07172018;
+package rocks.zipcodewilmington.week6.p07172018.marketplace.spices;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
@@ -17,6 +18,12 @@ public class SpiceAisle<
         spiceList.add(spice);
     }
 
+    public void stockAll(SomeTypeOfSpice[] spiceArray) {
+        for(SomeTypeOfSpice spice : spiceArray) {
+            stock(spice);
+        }
+    }
+
     public void sell(SomeTypeOfSpice spice) {
         spiceList.remove(spice);
     }
@@ -29,9 +36,13 @@ public class SpiceAisle<
         return spiceList.get(index);
     }
 
-
     @Override
     public Iterator<SomeTypeOfSpice> iterator() {
         return spiceList.iterator();
+    }
+
+    @Override
+    public String toString() {
+        return Arrays.toString(spiceList.toArray());
     }
 }
