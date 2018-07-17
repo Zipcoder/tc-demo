@@ -1,7 +1,6 @@
 package rocks.zipcodewilmington.week4.p07052018Thursday;
 
 import org.junit.Test;
-import rocks.zipcodewilmington.week4.p07052018Wednesday.CollectionPrinter;
 
 import java.util.Arrays;
 

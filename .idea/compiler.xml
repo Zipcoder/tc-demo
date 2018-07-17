@@ -9,5 +9,8 @@
         <module name="tcusdemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tcusdemo" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

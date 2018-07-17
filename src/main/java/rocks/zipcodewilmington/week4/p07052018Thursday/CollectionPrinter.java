@@ -1,4 +1,4 @@
-package rocks.zipcodewilmington.week4.p07052018Wednesday;
+package rocks.zipcodewilmington.week4.p07052018Thursday;
 
 import java.util.ArrayList;
 import java.util.Iterator;
