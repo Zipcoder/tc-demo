@@ -1,6 +1,7 @@
 package rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition1;
 
-import com.zipcodewilmington.streams.tools.RandomUtils;
+
+import rocks.zipcodewilmington.week11.tools.RandomUtils;
 
 import java.util.Optional;
 
