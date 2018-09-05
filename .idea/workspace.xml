@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="380566af-2dd1-4397-8007-8a077504c621" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Jogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Threader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/WaitUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="8846c9b8-fc91-4413-8e09-119d352876a9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/FromLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamFilterer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/CollectorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/OptionalCompositionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/LocaleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/StringFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/Dairy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/Milk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/spices/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/spices/Spice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/spices/SpiceAisle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rocks/zipcodewilmington/week6/p07172018/marketplace/spices/SpiceAisle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcusdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tcusdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcusdemo.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,53 +42,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/MainApplication.java">
+      <file leaf-file-name="LocaleFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/LocaleFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="StreamCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="685">
+              <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaitUtility.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/WaitUtility.java">
+      <file leaf-file-name="StreamExtractor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="320">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jogger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Jogger.java">
+      <file leaf-file-name="StreamFilterer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamFilterer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+            <state relative-caret-position="105">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Threader.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Threader.java">
+      <file leaf-file-name="StreamMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamReducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamReducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/S1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="U2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/U2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FromLoops.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/FromLoops.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,10 +132,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Jogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/WaitUtility.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/MainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Threader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/demos/lecture2/optionalcomposition/optionalcomposition2/U2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/lecture1/StreamTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/StreamTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/S1.java" />
       </list>
     </option>
   </component>
@@ -106,7 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,15 +193,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rocks" type="462c0819:PsiDirectoryNode" />
               <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,7 +201,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rocks" type="462c0819:PsiDirectoryNode" />
               <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
               <item name="week6" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -165,23 +210,79 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rocks" type="462c0819:PsiDirectoryNode" />
               <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
-              <item name="week6" type="462c0819:PsiDirectoryNode" />
-              <item name="p07182018" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="p09042018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="p09052018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="p09052018" type="462c0819:PsiDirectoryNode" />
+              <item name="optionalcomposition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="p09052018" type="462c0819:PsiDirectoryNode" />
+              <item name="optionalcomposition" type="462c0819:PsiDirectoryNode" />
+              <item name="optionalcomposition1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="p09052018" type="462c0819:PsiDirectoryNode" />
+              <item name="optionalcomposition" type="462c0819:PsiDirectoryNode" />
+              <item name="optionalcomposition2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tcusdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tc-leon-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zipcodewilmington" type="462c0819:PsiDirectoryNode" />
+              <item name="week11" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,6 +292,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,17 +311,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcodewilmington.week6.p07182018.MainApplication" />
-      <module name="tcusdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rocks.zipcodewilmington.week6.p07182018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -257,59 +352,55 @@
       <properties />
       <listeners />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainApplication" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="380566af-2dd1-4397-8007-8a077504c621" name="Default" comment="" />
-      <created>1531919559706</created>
+      <changelist id="8846c9b8-fc91-4413-8e09-119d352876a9" name="Default" comment="" />
+      <created>1536158700702</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531919559706</updated>
-      <workItem from="1531919563068" duration="2685000" />
+      <updated>1536158700702</updated>
+      <workItem from="1536158703264" duration="528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2685000" />
+    <option name="totallyTimeSpent" value="528000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -321,41 +412,84 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/StreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="913" column="16" selection-start-line="913" selection-start-column="16" selection-end-line="913" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Jogger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/OptionalCompositionDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/RandomUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/StringFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/S2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/tools/LocaleFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition2/U2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamFilterer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/WaitUtility.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamReducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week6/p07182018/Threader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09052018/optionalcomposition/optionalcomposition1/S1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/FromLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rocks/zipcodewilmington/week11/p09042018/StreamExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
