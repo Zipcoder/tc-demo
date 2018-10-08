@@ -1,6 +1,7 @@
 package rocks.zipcodewilmington.week11.p09052018;
 
-import com.zipcodewilmington.streams.tools.LocaleFactory;
+
+import rocks.zipcodewilmington.week11.tools.LocaleFactory;
 
 import java.util.List;
 import java.util.Locale;

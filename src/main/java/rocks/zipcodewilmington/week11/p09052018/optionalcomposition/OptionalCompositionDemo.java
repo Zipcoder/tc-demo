@@ -1,6 +1,10 @@
 package rocks.zipcodewilmington.week11.p09052018.optionalcomposition;
-import com.zipcodewilmington.streams.demos.lecture2.optionalcomposition.optionalcomposition1.*;
-import com.zipcodewilmington.streams.demos.lecture2.optionalcomposition.optionalcomposition2.*;
+
+import rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition1.S1;
+import rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition1.T1;
+import rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition1.U1;
+import rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition2.S2;
+import rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition2.U2;
 
 import java.util.Optional;
 

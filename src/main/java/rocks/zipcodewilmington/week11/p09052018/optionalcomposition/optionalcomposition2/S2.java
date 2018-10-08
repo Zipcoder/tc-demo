@@ -1,6 +1,7 @@
 package rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition2;
 
-import com.zipcodewilmington.streams.tools.RandomUtils;
+
+import com.github.git_leon.RandomUtils;
 
 /**
  * Created by leon on 6/5/17.

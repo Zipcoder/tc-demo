@@ -1,6 +1,7 @@
 package rocks.zipcodewilmington.week11.p09052018.optionalcomposition.optionalcomposition2;
 
-import com.zipcodewilmington.streams.tools.RandomUtils;
+
+import com.github.git_leon.RandomUtils;
 
 /**
  * Suppose you have a method `g` yielding an `Optional<U>`

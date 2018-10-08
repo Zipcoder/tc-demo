@@ -9,7 +9,9 @@ public class Person {
     private final Integer myId;
     private final String name;
     private final Date birthdate;
+    public Person() {
 
+    }
     public Person(Integer id, String name, Date birthdate) {
         this.myId = id;
         this.name = name;
@@ -28,14 +30,13 @@ public class Person {
         return birthdate;
     }
 
-
     @Override
     public String toString() {
-        String result = "";
-        result += "\nId: " + this.myId;
-        result += "Name: " + this.name;
-        result += "\nBirthdate " + this.birthdate.toString();
-        return result;
+        return "Person{" +
+                "myId=" + myId +
+                ", name='" + name + '\'' +
+                ", birthdate=" + birthdate +
+                '}';
     }
 
     @Override
