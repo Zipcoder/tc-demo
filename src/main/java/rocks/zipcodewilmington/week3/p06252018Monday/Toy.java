@@ -7,7 +7,7 @@ import java.util.Date;
  * @author leon on 6/25/18.
  */
 public class Toy {
-    private static Long numberOfToysCreated = 0L;
+    public static Long numberOfToysCreated = 0L;
 
     private final Long id;
     private Color myColor;
